@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  color: lime;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+a {
+  color: aliceblue;
+  transition: 10s;
+}
+
+a:hover {
+  color: aqua;
+  font-size: larger;
+}
